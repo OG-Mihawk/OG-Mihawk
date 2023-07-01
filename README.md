@@ -5,7 +5,7 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Java+Python+Solidity+Deve" alt="Typing SVG" /></a>
 </p>
 
-![Profile views](https://gpvc.arturio.dev/Ashura667)
+
 
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white&link=https://github.com/OG-Mihawk/)](https://github.com/OG-Mihawk/)
 <h3>Languages</h3>
