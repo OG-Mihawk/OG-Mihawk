@@ -1,6 +1,6 @@
 # Hello world, I'm Mihawk 👋
   
-![GitHub Streak](https://github.com/OG-Mihawk/OG-Mihawk/blob/main/assets/06bedfb3ed400da352159a4e4807645d.gif?raw=true)
+![GitHub Streak](https://github.com/OG-Mihawk/OG-Mihawk/blob/main/assets/06bedfb3ed400da352159a4e48076.gif)?raw=true)
 
 
 <div align="center">
