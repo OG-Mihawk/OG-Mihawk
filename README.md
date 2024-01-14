@@ -5,7 +5,6 @@
 
 <div align="center">
 
-[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/oussama-guelagli-1aaaa0264/)
 [![Twitter](https://skillicons.dev/icons?i=twitter)](https://twitter.com/OG_Mihawk)
 [![Mail](https://skillicons.dev/icons?i=gmail)](mailto:oussama.guelagli.pro@gmail.com)
 
