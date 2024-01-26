@@ -13,7 +13,7 @@
 ## 👨🏽‍💻 About Me
 
 
-* Freelance Developer | Systems Engineer at CLS | Student
+* Freelance Developer | Systems Engineer at CLS
 * I'm a tech enthusiast who loves to learn new things and share them with others as well as help them.
 * I'm currently learning about DevOps and Cloud Computing.
 * Cybersecurity enthusiast.
